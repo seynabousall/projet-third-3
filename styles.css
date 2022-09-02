@@ -1,0 +1,62 @@
+nav ul li {
+    
+    list-style-type: none;
+    display:inline-block ;
+    padding: 30px;
+    font-family:roboto;
+     
+    
+}
+.propos{
+    color: darkred;
+    background-color: black;
+    width: 5em;
+    font-style: italic;
+
+    
+}
+.travail{
+    color: black;
+    background-color:chocolate;
+    width: 5em;
+    font-style: italic;
+}
+.cv{
+    color: green;
+    background-color: black;
+    width: 5em;
+    font-style: italic;
+    
+    
+    
+}
+.contact{
+    color: black;
+    background-color: brown;
+    width: 5em;
+    font-style: italic;
+}
+.p1{
+    font-size: large;
+font-weight: bold;
+font-style: italic;
+
+
+}
+.p2{
+    color: aliceblue;
+    background-color: black;
+    width: 20em;
+}
+.ul li a { 
+    text-decoration: none;
+    color: aliceblue;
+    letter-spacing: 0.1em;
+    
+
+    
+}
+.header{
+    
+    background-color: darkslategrey;
+}
